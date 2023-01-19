@@ -17,4 +17,4 @@ Lets use the example of "header_questionable":
 <img src="https://github.com/Cisco-Email-Security/text_resources/blob/main/assets/text_resource_questionable.jpg?raw=true" alt="header_questionable Example" title="header_questionable Example">
 
 Using the "Add Disclaimer Text" action in the Content Filter:
-<img src="https://github.com/Cisco-Email-Security/text_resources/blob/main/assets/content_filter_example.jpg?raw=true" alt="Content Filter Example" title="Content Filter Example">
+<img src="https://github.com/Cisco-Email-Security/text_resources/blob/main/assets/content_filter_questionable.jpg?raw=true" alt="Content Filter Example" title="Content Filter Example">
