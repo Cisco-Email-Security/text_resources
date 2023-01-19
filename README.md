@@ -13,4 +13,4 @@ From the Gateway UI:
 
 The text resource can then be added to any Message or Content Filter.
 
-<img src="/text_resources/assets/content_filter_example.jpg" alt="Content Filter Example" title="Content Filter Example">
+<img src="https://github.com/Cisco-Email-Security/text_resources/blob/main/assets/content_filter_example.jpg?raw=true" alt="Content Filter Example" title="Content Filter Example">
